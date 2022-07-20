@@ -209,6 +209,14 @@ body {
 {
   background-color: #00327C;
 }
+#integration_buttons2
+{
+  background-color: #2CA01C;
+}
+#integration_buttons2:hover
+{
+  background-color: #00327C;
+}
 #readmore_text
 {
   color:#3365AF;
