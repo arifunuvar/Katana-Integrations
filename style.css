@@ -229,3 +229,8 @@ body {
 {
   font-size: 15px;
 }
+@media (min-width: 992px) {
+ #img_boxsizing{
+  box-sizing: content-box
+  }
+}
